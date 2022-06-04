@@ -1,2 +1,2 @@
 ## Creating a Python 2.7 environment to work with OBITools
-Different bioinformatic softwares will often work with the same dependencies (ex.same versions of programming languages like Python). However, sometimes softwares require different versions of dependencies. When this happens, you have to make adjustments to be able to use different softwares in the same [machine](https://blog.ronin.cloud/conda/)
+Different bioinformatic softwares will often work with the same dependencies (ex. same versions of programming languages like Python). However, sometimes softwares require different versions of dependencies. When this happens, you have to make adjustments to be able to use different softwares in the same [machine](https://blog.ronin.cloud/conda/)
